@@ -77,7 +77,7 @@ async def send_message_endpoint(webapp: WebAppRequest):
     %0A
     Контактные данные:%0A
     * Имя: {}%0A
-    * Телеграм: {}%0A
+    * Телеграм: @{}%0A
     * Почта: {}%0A
     %0A
     Информация:%0A
